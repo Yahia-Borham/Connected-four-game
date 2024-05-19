@@ -1,0 +1,7 @@
+mido         500
+omar         1000
+boodi         1000
+racer         500
+Shadow         2000
+maaloul         11500
+mido         500
